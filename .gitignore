@@ -59,3 +59,6 @@ typings/
 
 # production directory
 dist/
+
+# remove macOS files
+.DS_Store
